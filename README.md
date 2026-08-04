@@ -23,17 +23,11 @@ no more fighting with the timing panel. no more clicking 500 times to place a si
 - countdown timer before recording
 - latency offset for audio sync issues
 
-## screenshots
-
-![main window](screenshot.png)
-
-*yeah i know i need to add a screenshot just drop one in the repo*
-
 ## installation
 
 ```bash
 # clone the repo
-git clone https://github.com/yourusername/mapmaker.git
+git clone https://github.com/AstralZX/mapmaker.git
 cd mapmaker
 
 # install dependencies
