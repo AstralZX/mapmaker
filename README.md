@@ -31,7 +31,7 @@ git clone https://github.com/AstralZX/mapmaker.git
 cd mapmaker
 
 # install dependencies
-pip install PyQt6
+pip install -r requirements.txt
 
 # run it
 python main.py
